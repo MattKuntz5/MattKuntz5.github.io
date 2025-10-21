@@ -24,13 +24,13 @@ repository               : "MattKuntz5/MattKuntz5.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Contact Info"
+  pronouns         : # example: "he/him"  
+  bio              : "GES student at UMBC"
+  location         : "Baltimore, MD"
+  employer         : "University of Maryland, Baltimore County"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mkuntz2@umbc.edu" 
 
   # Academic websites
   academia         : # URL
