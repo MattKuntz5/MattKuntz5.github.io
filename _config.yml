@@ -23,7 +23,7 @@ repository               : "MattKuntz5/MattKuntz5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ID Photo.png"
   name             : "Matt Kuntz"
   pronouns         : "he/him"  
   bio              : "GES student at UMBC"
