@@ -24,8 +24,8 @@ repository               : "MattKuntz5/MattKuntz5.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Contact Info"
-  pronouns         : # example: "he/him"  
+  name             : "Matt Kuntz"
+  pronouns         : "he/him"  
   bio              : "GES student at UMBC"
   location         : "Baltimore, MD"
   employer         : "University of Maryland, Baltimore County"
