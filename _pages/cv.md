@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Eastern Technical High School, 2018-2022
+* B.S. in Geography & Environmental Systems, UMBC, (Expected 2026)
+* GIS Certificate, UMBC, (Expected 2026)
 
 Work experience
 ======
