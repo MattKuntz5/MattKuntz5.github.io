@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Analysis of the Fishing Industry affecting Terrapin Habitats<br/><img src='/images/portfolioproject1.png'>"
 collection: portfolio
 ---
 
