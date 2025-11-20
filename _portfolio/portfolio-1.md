@@ -4,4 +4,4 @@ excerpt: "Analysis of the Fishing Industry affecting Terrapin Habitats<br/><img 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Figure from GES386 final project where I did an analysis of government regulations and the fishing industry on Maryland Terrapin ranges in the Chesapeake Bay. 
